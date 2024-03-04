@@ -1,7 +1,7 @@
-<h1 align="center">Hello 👋, I'm Mridul Sutradhar</h1>
+<h1 align="center">Hello, I'm Mridul Sutradhar</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 
-- 💬 Ask me about **Angular,ASP.NET Core,MSSQL**
+- 💬 Ask me about **Angular,ASP.NET Core,MSSQL,PostgreSQL**
 
 - 📫 How to reach me **pust.mridul@gmail.com**
 
